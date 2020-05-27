@@ -4,7 +4,7 @@ This repository contains the source code implementation of memoCNN and the datas
 
 _On the need for cognitive classification of metamodels_
 
-The paper has been submitted to ESEC/FSE 2020 and it is now under review.
+The paper has been submitted to Journal of Systems and Software and it is now under review.
 
 ## Introduction
 
