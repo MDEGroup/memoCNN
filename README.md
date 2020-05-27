@@ -44,7 +44,7 @@ File **memoCNNi.ipynb** is the source code file corresponding to configuration C
 The experimental configurations are as follows:
 
 <p align="center">
-<img src="https://github.com/esec-fse2020-memocnn/memoCNN/blob/master/images/Configurations.png" width="800">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/Configurations.png" width="800">
 </p>
 
 
@@ -65,19 +65,19 @@ After that, you can run the notebooks on Google Colab. This [post](https://towar
 If you run for the first time, Google Colab will ask you to authenticate your Google Drive as shown in the figure below:
 
 <p align="center">
-<img src="https://github.com/esec-fse2020-memocnn/memoCNN/blob/master/images/GoogleColabAuth.png" width="800">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/GoogleColabAuth.png" width="800">
 </p>
 
 You have to click the link above, and you will be redirected to the next page to get the access token:
 
 <p align="center">
-<img src="https://github.com/esec-fse2020-memocnn/memoCNN/blob/master/images/GoogleColabAuth5.png" width="500">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/GoogleColabAuth5.png" width="500">
 </p>
 
 And finally paste the token to the box and press Enter to run the notebook:
 
 <p align="center">
-<img src="https://github.com/esec-fse2020-memocnn/memoCNN/blob/master/images/GoogleColabAuth3.png" width="800">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/GoogleColabAuth3.png" width="800">
 </p>
 
 
@@ -86,7 +86,7 @@ And finally paste the token to the box and press Enter to run the notebook:
 Once Google Colab finishes its computation, it will display the final result that looks like as in the picture below
 
 <p align="center">
-<img src="https://github.com/esec-fse2020-memocnn/memoCNN/blob/master/images/Result.png" width="500">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/Result.png" width="500">
 </p>
 
 
