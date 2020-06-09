@@ -11,14 +11,14 @@ The paper has been submitted to Journal of Systems and Software and it is now un
 The classification of metamodels into independent categories helps developers quickly approach the most relevant ones to their needs by narrowing down the search scope. However, the manual annotation of metamodels is both time-consuming and inapplicable to a large amount of data. In this sense, it is essential to have decent machinery to automatize such a process. We propose memoCNN as a novel approach to classify metamodels. We first devised a method to transform metamodels into a processable format, and built a deep neural network to classify them afterwards. Experimental results show that the approach effectively categorizes input data, and outperforms a state-of-the-art baseline.
 
 <p align="center">
-<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/memoCNN.png" width="500">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/memoCNN.png" width="600">
 </p>
 
 
 The proposed architecture allows for both offline and online training. By the former, one can train the network on a PC or a laptop installed with TensorFlow and Keras. By the latter, the code is executed directly on Google Colaboratory 1 connecting to metadata stored into Google Drive. The final outcome of the training process is a set of weights and biases, which then can be used to deploy the network. An example of a memoCNN network is shown below.
 
 <p align="center">
-<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/CNN.png" width="650">
+<img src="https://github.com/MDEGroup/memoCNN/blob/master/images/CNN.png" width="750">
 </p>
 
 
