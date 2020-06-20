@@ -2,7 +2,7 @@
 
 This repository contains the source code implementation of memoCNN and the datasets used to replicate the experimental results for the following paper: 
 
-_On the need for cognitive classification of metamodels_
+_Convolutional neural networks for enhanced classification mechanisms of metamodel repositories_
 
 The paper has been submitted to Journal of Systems and Software and it is now under review.
 
