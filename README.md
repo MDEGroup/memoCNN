@@ -4,7 +4,7 @@ This repository contains the source code implementation of memoCNN and the datas
 
 _Convolutional neural networks for enhanced classification mechanisms of metamodel repositories_
 
-The paper has been for publication by the Journal of Systems and Software.
+The paper has been accepted for publication by the Journal of Systems and Software.
 
 The the paper is available [here](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302508).
 
