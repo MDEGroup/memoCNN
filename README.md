@@ -92,5 +92,23 @@ Once Google Colab finishes its computation, it will display the final result tha
 </p>
 
 
+## How to cite
+If you find our work useful for your research, please cite the paper using the following BibTex entry:
+
+```
+@article{NGUYEN2021110860,
+title = "Convolutional neural networks for enhanced classification mechanisms of metamodels",
+journal = "Journal of Systems and Software",
+volume = "172",
+pages = "110860",
+year = "2021",
+issn = "0164-1212",
+doi = "https://doi.org/10.1016/j.jss.2020.110860",
+url = "http://www.sciencedirect.com/science/article/pii/S0164121220302508",
+author = "Phuong T. Nguyen and Davide {Di Ruscio} and Alfonso Pierantonio and Juri {Di Rocco} and Ludovico Iovino",
+abstract = "Conventional wisdom on Model-Driven Engineering suggests that metamodels are crucial elements for modeling environments consisting of graphical editors, transformations, code generators, and analysis tools. Software repositories are commonly used in practice for locating existing artifacts provided that a classification procedure is available. However, the manual classification of metamodel in repositories produces results that are influenced by the subjectivity of human perception besides being tedious and prone to errors. Therefore, automated techniques for classifying metamodels stored in repositories are highly desirable and stringent. In this work, we propose memoCNN as a novel approach to classification of metamodels. In particular, we consider metamodels as data points and classify them using supervised learning techniques. A convolutional neural network has been built to learn from labeled data, and use the trained weights to group unlabeled metamodels. A comprehensive experimental evaluation proves that the proposal effectively categorizes input data and outperforms a state-of-the-art baseline."
+}
+
+```
 
 
